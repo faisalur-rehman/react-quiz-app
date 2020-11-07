@@ -1,0 +1,15 @@
+.buttons{
+width: 390px;
+text-align: left;
+height: 50px;
+margin: 15px;
+font-size: 18px;
+font-weight: bolder;
+background-color: #333f6b;
+color: #fff;
+border: 1px solid rgb(107, 150, 107);
+cursor: pointer;
+}
+.buttons:hover{
+    border-color: greenyellow;
+}

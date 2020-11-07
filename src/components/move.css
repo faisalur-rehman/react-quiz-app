@@ -1,0 +1,19 @@
+.move{
+    display: flex;
+    margin: 0 auto;
+    width: 390px;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.move button{
+    background-color: #333F6B;
+    border: 1px solid rgb(82, 134, 4);
+    font-size: 18px;
+    color: greenyellow;
+    padding: 5px;
+    cursor: pointer;
+}
+.move button:hover{
+    border-color: greenyellow;
+}
